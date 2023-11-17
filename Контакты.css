@@ -2,11 +2,8 @@
   min-height: 694px;
 }
 
-.u-section-1 .u-icon-1 {
-  width: 32px;
-  height: 32px;
-  margin: 20px auto 0 20px;
-  padding: 0;
+.u-section-1 .u-text-1 {
+  margin: 14px auto 0 18px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -15,41 +12,20 @@
   font-size: 0.875rem;
   letter-spacing: 1px;
   background-image: none;
-  margin: -37px auto 0 73px;
+  margin: 13px auto 0 68px;
 }
 
-.u-section-1 .u-image-1 {
-  width: 547px;
-  height: 547px;
-  margin: 45px auto 45px 15px;
+.u-section-1 .u-icon-1 {
+  width: 32px;
+  height: 32px;
+  color: rgb(16, 129, 224) !important;
+  margin: -37px auto 60px 18px;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-btn-1 {
     margin-left: 0;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 687px;
-  }
-
-  .u-section-1 .u-image-1 {
-    width: 540px;
-    height: 540px;
-    margin-left: 0;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 487px;
-  }
-
-  .u-section-1 .u-image-1 {
-    width: 340px;
-    height: 340px;
   }
 }@font-face {
   font-family: 'minecraft';
